@@ -1,5 +1,11 @@
-# Unciv-mod-example
+# Civilization Notifications
 
-An example mod for Unciv, that adds one new Civilization.
+An Unciv mod that adds Civilization-themed notification sounds.
 
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+Includes national anthems and iconic sound effects.
+
+No offense intended.
+
+- Max bitrate to 100kbps
+- 24khz joint stereo 8-bit VBR
+- OGG
