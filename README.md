@@ -2,6 +2,4 @@
 
 An Unciv mod that adds Civilization-themed notification sounds.
 
-Includes national anthems and iconic sound effects.
-
-No offense intended.
+Includes national anthems and iconic/stereotypical sound effects (for ironic purposes only)
